@@ -17,9 +17,9 @@ Navigate a dungeon, collect treasures, battle monsters, and reach the goal while
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/dungeon-crawler-dsa.git
-cd dungeon-crawler-dsa
-python dungeon_crawler.py
+git clone https://github.com/yourusername/23049014-Ina-Adhikari.git
+cd 23049014-Ina-Adhikari
+python 23049014-Ina-Adhikari.py
 ```
 
 ## Controls
