@@ -17,8 +17,8 @@ Navigate a dungeon, collect treasures, battle monsters, and reach the goal while
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/23049014-Ina-Adhikari.git
-cd 23049014-Ina-Adhikari
+git clone https://github.com/iaminaadhikari/Python-Text-Based-Dungeon-Crawler-Game.git
+cd Python-Text-Based-Dungeon-Crawler-Game-main
 python 23049014-Ina-Adhikari.py
 ```
 
